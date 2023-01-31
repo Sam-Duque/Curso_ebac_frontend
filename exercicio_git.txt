@@ -1,2 +1,4 @@
 Ola essa e a primeira vez criando no GIT
 agora estamos indo melhor.
+
+Agora estamos testando a branch para poder enviar o exercicio, espero que esteja correto.
